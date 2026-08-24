@@ -5,6 +5,7 @@ Streamlit web application for the AI Student Performance Prediction System.
 Lets a user input student parameters and get a real-time predicted
 final exam score from the trained Linear Regression model.
 
+
 Run: streamlit run app.py
 """
 
