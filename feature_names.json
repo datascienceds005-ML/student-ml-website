@@ -1,0 +1,13 @@
+[
+  "study_hours_per_day",
+  "attendance_percentage",
+  "previous_exam_score",
+  "sleep_hours",
+  "screen_time_hours",
+  "parental_education_score",
+  "extracurricular_activities_encoded",
+  "internet_access_encoded",
+  "study_group_encoded",
+  "tutoring_encoded",
+  "engagement_index"
+]
