@@ -217,7 +217,13 @@ venv\Scripts\Activate.ps1          # Windows PowerShell
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Launch the app (trained model files are already included in models/)
+# 4. Install Streamlit
+pip install streamlit
+
+# 5. Use the Python module shortcut (Easiest)
+python3 -m streamlit run app.py
+
+# 6. Launch the app (trained model files are already included in models/)
 streamlit run app.py
 ```
 
